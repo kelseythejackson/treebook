@@ -3,5 +3,11 @@ kelsey:
  last_name: "Jackson"
  email: "kelsey@artfulgiant.com"
  profile_name: "kelseyjackson"
+
+jason:
+ first_name: "Jason"
+ last_name: "Seifer"
+ email: "jason@teamtreehouse.com"
+ profile_name: "jasonseifer"
  
  
